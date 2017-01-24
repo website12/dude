@@ -1,15 +1,13 @@
 body {background-color:#800080;
-	background-image: url(image/title.png);
+	background-image: https://orange-object.github.io/dude/;
 }
 	a{color:#3383ff}
 	a: hover{color:#009dff}
 
-<div> body2 {background-color:#00FF00;}</div>
-
-        background-image: url(image/title.png);
+body {background-color:#00FF00;}
+	background-image: https://orange-object.github.io/dude/index2.html;
 
 }
 
         a{color:#3383ff}
-
-        a: hover{color:#009dff}
+	a: hover{color:#009dff}
